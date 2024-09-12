@@ -9,7 +9,7 @@ Given a dataset containing information about laptops (product names, specificati
 
 # Implementation Flowchart
 
-<img width="539" alt="image" src="https://github.com/user-attachments/assets/a9d7cbfb-f2b4-4ee1-9e84-0eb898bbe5df">
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/d411bff4-80f6-49a5-9dee-1c310623afd4">
 
 Stage 1
 - Intent Clarity Layer
